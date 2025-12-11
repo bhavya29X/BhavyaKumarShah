@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University ,Vadodara<br><br>🌱 I’m currently learning JavaScript and Data Structure.<br><br>📫 How to reach me bs8615884@gmail.com
+🔭 I’m currently pursuing B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University ,Vadodara<br><br>🌱 I’m currently learning JavaScript and Data Structure.<br><br>📫 How to reach me bhavya29shah10@gmail.com
 
 
 ## 🌐 Socials:
