@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I have completed B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University ,Vadodara<br><br>🌱 I’m currently learning JavaScript and Data Structure.<br><br>📫 How to reach me bhavya29shah10@gmail.com
-
+###### 🔭 Hi, I'm Bhavya Shah — an aspiring Data Scientist and Computer Science Engineer passionate about transforming data into meaningful insights.<br><br> I completed my B.Tech in Computer Science and Engineering from Drs. Kiran and Pallavi Patel Global University, Vadodara, graduating with a CGPA of 8.56.<br><br>
+### 📚 Currently Learning
+ - Machine Learning
+ - Deep Learning Fundamentals
+ - Exploratory Data Analysis (EDA)<br><br>
+### 🔧 Tech Stack
+ - ##### Languages: Python, JavaScript, C++
+ - ##### Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Joblib
+ - ##### Databases: MySQL, MongoDB
+ - ##### Tools: Power BI, Jupyter Notebook, Git & GitHub, VS Code, Cursor AI
+ - ##### Web Technologies: HTML, CSS, JavaScript, Flask, MERN (Project-Based Experience)
+<br><br>
+##### 📫 How to reach me bhavya29shah10@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__bhavya_29_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-shah-622a9a271/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_Bhavya_29) 
