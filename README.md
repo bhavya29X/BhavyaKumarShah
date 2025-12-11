@@ -8,7 +8,7 @@
  - ##### Languages: Python, JavaScript, C++
  - ##### Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Joblib
  - ##### Databases: MySQL, MongoDB
- - ##### Tools: Power BI, Jupyter Notebook, Git & GitHub, VS Code, Cursor AI
+ - ##### Tools: Power BI, Jupyter Notebook, VS Code, Cursor AI, Git & GitHub
  - ##### Web Technologies: HTML, CSS, JavaScript, Flask, MERN (Project-Based Experience)<br><br>
 ##### 📫 How to reach me bhavya29shah10@gmail.com
 
