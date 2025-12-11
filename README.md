@@ -1,16 +1,16 @@
 # 💫 About Me:
-#### 🔭 Hi, I'm Bhavya Shah — an aspiring Data Scientist and Computer Science Engineer passionate about transforming data into meaningful insights.<br><br> I completed my B.Tech in Computer Science and Engineering from Drs. Kiran and Pallavi Patel Global University, Vadodara, graduating with a CGPA of 8.56.<br><br>
+🔭 Hi, I'm Bhavya Shah — an aspiring Data Scientist and Computer Science Engineer passionate about transforming data into meaningful insights.<br><br> I completed my B.Tech in Computer Science and Engineering from Drs. Kiran and Pallavi Patel Global University, Vadodara, graduating with a CGPA of 8.56.<br><br>
 ### 📚 Currently Learning
-##### - Machine Learning
-##### - Deep Learning Fundamentals<br>
+ - Machine Learning
+ - Deep Learning Fundamentals<br>
 ### 🔧 Tech Stack
- - ##### Languages: Python, JavaScript, C++
- - ##### Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Joblib
- - ##### Databases: MySQL, MongoDB
- - ##### Tools: Power BI, Jupyter Notebook, VS Code, Cursor AI, Git & GitHub
- - ##### Web Technologies: HTML, CSS, JavaScript, Flask, MERN (Project-Based Experience)<br>
+ - Languages: Python, JavaScript, C++
+ - Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Joblib
+ - Databases: MySQL, MongoDB
+ - Tools: Power BI, Jupyter Notebook, VS Code, Cursor AI, Git & GitHub
+ - Web Technologies: HTML, CSS, JavaScript, Flask, MERN (Project-Based Experience)<br>
 ### 🎯 Career Goals
-##### - I aim to start my career in Data Science / Data Analytics, contribute to impactful projects, and grow into a highly skilled data professional.<br>
+I aim to start my career in Data Science / Data Analytics, contribute to impactful projects, and grow into a highly skilled data professional.<br>
 ##### 📫 How to reach me bhavya29shah10@gmail.com
 
 ## 🌐 Socials:
