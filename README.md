@@ -30,9 +30,3 @@ I aim to start my career in Data Science / Data Analytics, contribute to impactf
 [![](https://visitcount.itsvg.in/api?id=BhavyaKumarShah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
----
-[![](https://visitcount.itsvg.in/api?id=bhavya29X&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
